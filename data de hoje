@@ -1,0 +1,3 @@
+<?php
+echo "Hoje é " . date("d/m/Y");
+?>
