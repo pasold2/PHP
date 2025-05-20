@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Minha Página Simples</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      margin: 40px;
+      color: #333;
+    }
+    h1 {
+      color: #005f73;
+      text-align: center;
+    }
+    p {
+      font-size: 18px;
+      max-width: 600px;
+      margin: 20px auto;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <h1>Olá, Mundo!</h1>
+  <p>Essa é uma página HTML simples com CSS básico embutido.</p>
+</body>
+</html>
