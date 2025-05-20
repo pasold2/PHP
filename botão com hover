@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Botão com Hover</title>
+  <style>
+    button {
+      background: #0077b6;
+      border: none;
+      color: white;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    button:hover {
+      background: #023e8a;
+    }
+  </style>
+</head>
+<body>
+  <button>Clique Aqui</button>
+</body>
+</html>
